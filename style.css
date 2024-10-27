@@ -1,19 +1,20 @@
 * {
     margin: 0;
     padding: 0;
+    max-width: 100%;
+    max-width: 100%;
 
 }
 
 html,
 body {
-    max-width: 100%;
-    height: 100%;
-    margin: 0 20px;
+    
+    
 
 }
 header{
     height: 70px;
-    width: 100%;
+    width: auto;
     background-color: white;
     border: 1px solid black;
     margin-bottom: 10px;
@@ -39,7 +40,7 @@ header{
 .item{
     width: auto;
     height: 70px;
-    left: 1405px;
+    left: 1398px;
     position: relative;
     bottom: 110px;
     
